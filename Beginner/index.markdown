@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Beginner
+title: শুরু করুন
 permalink: /begin-here/
 ---
 

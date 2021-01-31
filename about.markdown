@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: সম্পর্কিত
 permalink: /about/
 ---
 
